@@ -1,4 +1,4 @@
-### <h1>Olá, eu sou o Cosmic e estou estudando Front-End.</h1>
+### <h1>Olá, eu sou o Guilherme e estou estudando Front-End.</h1>
 
 <div align="center">
   <a href="https://github.com/ogcosmic">
