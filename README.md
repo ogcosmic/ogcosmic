@@ -1,8 +1,8 @@
 ### <h1>Olá, eu sou o Cosmic e estou estudando Front-End.</h1>
 <div align="center">
   <a href="https://github.com/ogcosmic">
-    <img height="45%" src="https://github-readme-stats.vercel.app/api?username=ogcosmic&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogcosmic&layout=compact&langs_count=7&theme=dark"/
+    <img align="center" height="45%" src="https://github-readme-stats.vercel.app/api?username=ogcosmic&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img align="center" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogcosmic&layout=compact&langs_count=7&theme=dark"/
 </div>
      
      
