@@ -1,5 +1,5 @@
 <div
-     <igm src="https://images.app.goo.gl/DkR4mqvqke1Em9Dy6" alt="gif-code"
+     <img src="https://images.app.goo.gl/DkR4mqvqke1Em9Dy6" alt="gif-code"
 
 ### <h1>Olá, eu sou o Cosmic e estou estudando Front-End.</h1>
 
