@@ -1,4 +1,4 @@
-### Olá, eu sou o Cosmic e estou estudando Front-End.
+### style="font_size: 50%" Olá, eu sou o Cosmic e estou estudando Front-End.
 
 <div align="center">
   <a href="https://github.com/ogcosmic">
