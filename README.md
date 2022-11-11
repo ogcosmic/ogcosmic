@@ -1,4 +1,5 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<div
+     <igm src="https://images.app.goo.gl/DkR4mqvqke1Em9Dy6" alt="gif-code"
 
 ### <h1>Olá, eu sou o Cosmic e estou estudando Front-End.</h1>
 
