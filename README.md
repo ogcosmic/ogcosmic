@@ -1,4 +1,4 @@
-### style="font_size: 50%" Olá, eu sou o Cosmic e estou estudando Front-End.
+### <h1>Olá, eu sou o Cosmic e estou estudando Front-End.</h1>
 
 <div align="center">
   <a href="https://github.com/ogcosmic">
@@ -8,7 +8,7 @@
      
      
 <div style="display: inline_block"><br>
-  <h1>Áreas onde tenho conhecimento:</h1>
+  <h1>🧛‍♂️ Áreas de estudo:</h1>
      <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cosmic-AE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
