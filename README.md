@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ### <h1>Olá, eu sou o Cosmic e estou estudando Front-End.</h1>
 
 <div align="center">
